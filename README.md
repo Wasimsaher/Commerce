@@ -33,7 +33,7 @@ Make sure you have the following installed:
 
 ### 1. Clone the project
 ```bash
-git clone https://github.com/your-username/commerce.git
+git clone https://github.com/Wasimsaher/commerce.git
 cd commerce
 ```
 
